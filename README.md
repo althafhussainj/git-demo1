@@ -1,7 +1,7 @@
 # git-demo1
 
 <
-git <br>
+git<br>
 new line added
 second line added
 thisrdline added
