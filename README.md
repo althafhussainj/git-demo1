@@ -2,7 +2,8 @@
 
 <
 git
-<br>new line added
+<p>new line added <br>
 second line added
 thisrdline added
 line break added
+</p>
